@@ -8,6 +8,7 @@ import javax.persistence.*;
  Entity for the Customer
  Author: Marco Mulondayi Tshimanga (219049505)
  Date: 05 April 2022
+ this is for testing purpose
 */
 @Entity
 @Table(name="customer")
